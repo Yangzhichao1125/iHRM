@@ -19,10 +19,10 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/ihrm?useUnicode=true&characterEncoding=utf8
     username: root
-    password: root
+    password: 123qwe
   redis:
-    host: 127.0.0.1
-    port: 6379
+    host: 9.134.167.204
+    port: 6380
   #3.JPA
   jpa:
     database: MySQL
